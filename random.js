@@ -1,4 +1,5 @@
 // Math.random() devuelve número aleatorio entre 0 y 1.
+//Esto es una prueba de mo subida 
 var numero = Math.random();
 
 var str =' MAYOR que 0,5';
